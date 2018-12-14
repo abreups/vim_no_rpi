@@ -31,3 +31,6 @@ syntax on
 set number	" mostra os números da linhas
 autocmd vimenter * NERDTree	" carrega o vim já com o plugin NERDTree ativado
 ```
+
+
+Alguns plugins para vim com dicas: http://www.dotnetsurfers.com/blog/2016/02/08/using-vim-as-a-javascript-ide
