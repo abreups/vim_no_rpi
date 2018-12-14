@@ -1,6 +1,9 @@
-# vim_no_rpi
-instalando vim no RaspberryPi com plugin Vundle e YouCompleteMe
+# vim no RaspberryPi
 
+Instalando vim no RaspberryPi com plugin Vundle e YouCompleteMe.
+
+Esse procedimento também serve para um servidor Linux qualquer (como, por exemplo,
+uma instância EC2 com Linux na AWS).
 
 Principal fonte de informação: https://github.com/Valloric/YouCompleteMe#linux-64-bit
 
